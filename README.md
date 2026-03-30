@@ -1,1 +1,2 @@
-# genAI-basics
+# Generative AI — Core Concepts
+
